@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CypherRat
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on backend technologies like php.
-- 📫 Reach me on my personal website <a href="https://abhi.markimons.space">here...</a>
+- 👋 Hi, I’m Abhimanyu.
+- 👀 I’m usually deploying web based products.
+- 🌱 I’m currently learning ReactJs and AngularJs.
+- 💞️ I’m looking to collaborate to create impactful projects.
+- 📫 Reach me on my personal website <a href="https://cypherrat.github.io/portfolio">here...</a>
 
 <!---
 CypherRat/CypherRat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
