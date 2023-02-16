@@ -2,7 +2,7 @@
 - 👀 I’m usually deploying web based products.
 - 🌱 I’m currently learning and building in ReactJs and AngularJs.
 - 💞️ I’m looking to collaborate to create impactful projects.
-- 📫 Reach me on my personal website <a href="https://cypherrat.github.io/portfolio">here...</a>
+- 📫 Reach me by sending an <a href="mailto:abhiwebspace@gmail.com">email.</a>.
 
 <!---
 CypherRat/CypherRat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
