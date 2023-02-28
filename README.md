@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate to create impactful projects.
 - 📫 Reach me by sending an <a href="mailto:abhiwebspace@gmail.com">email</a> or visiting my <a href="https://abhimanyukr.netlify.app/">website</a>.
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CypherRat/count.svg)
 
 <!---
 CypherRat/CypherRat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
