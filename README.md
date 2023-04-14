@@ -2,7 +2,7 @@
 - 👀 I’m usually deploying web based products.
 - 🌱 I’m currently learning and building in ReactJs and AngularJs.
 - 💞️ I’m looking to collaborate to create impactful projects.
-- 📫 Reach me by sending an <a href="mailto:abhiwebspace@gmail.com">email</a> or vis
+- 📫 Reach me by sending an <a href="mailto:abhiwebspace@gmail.com">email</a> or vi
 
 ![Visitor Count](https://profile-counter.glitch.me/CypherRat/count.svg)
 
