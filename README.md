@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherrat&show_icons=true&locale=en&layout=compact" alt="cypherrat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherrat&show_icons=true&locale=en" alt="cypherrat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherrat&count_private=true&show_icons=true&locale=en" alt="cypherrat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherrat&" alt="cypherrat" /></p>
 
