@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://github.com/CypherRat/CypherRat/assets/88980877/a646049f-6cab-4c42-925f-4c82b167dcf9" alt="Code From Home" height="350" /> -->
 
 
-- 🌱 I’m currently learning **react and angular**
+- 🌱 I’m currently learning **react, react-native and angular**
 
 - 💬 Ask me about **design, frontend, space and science**
 
