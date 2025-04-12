@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherrat&" alt="cypherrat" /></p>
 
-<h3 align="center">Thank you for visiting my github profile! :-)</h3>
+<h3 align="center">Thank you for visiting my github profile! Looking forward to connect. :-)</h3>
 <div align="center">
   
 ![Visitor Count](https://profile-counter.glitch.me/CypherRat/count.svg)
